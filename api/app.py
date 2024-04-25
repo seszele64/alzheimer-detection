@@ -6,7 +6,7 @@ import io
 from flask import Flask, request, jsonify
 
 # Assume your model is in a file called model.py
-from model.model import YourModel
+from model.alzheimers_model import YourModel
 
 app = Flask(__name__)
 
