@@ -1,5 +1,5 @@
 import torch.nn as nn
-import torchvision.models as models
+from torchvision import models
 
 class AlzheimerNet(nn.Module):
     def __init__(self, num_classes=4):
