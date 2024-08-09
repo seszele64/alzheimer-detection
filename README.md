@@ -28,10 +28,10 @@ This repository contains the implementation of a deep learning model designed to
 
 ## Usage:
 
-**1.** Train the model using **`train.py`**.
-**2.** Evaluate the model's performance with **`evaluate.py`**.
-**3.** Start the API server by running **`python api/app.py`**.
-**4.** Test the API using **`python tests/test_alzheimers_api.py`**.
+1. Train the model using **`train.py`**.
+2. Evaluate the model's performance with **`evaluate.py`**.
+3. Start the API server by running **`python api/app.py`**.
+4. Test the API using **`python tests/test_alzheimers_api.py`**.
 
 This project is intended for educational and research purposes, aiming to bridge the gap between medical imaging and machine learning technologies.
 
